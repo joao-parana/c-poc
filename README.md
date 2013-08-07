@@ -29,3 +29,10 @@ Binary code license agreement
 
 [JTwain article](https://today.java.net/pub/a/today/2004/11/18/twain.html) 
 
+
+[JRE8 Windows 64 bits](http://jdk8.java.net/download.html) 
+
+    curl -O http://download.java.net/jdk8/archive/b101/binaries/jre-8-ea-bin-b101-windows-x64-01_aug_2013.exe?q=download/jdk8/archive/b101/binaries/jre-8-ea-bin-b101-windows-x64-01_aug_2013.exe
+    
+
+
