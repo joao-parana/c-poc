@@ -10,6 +10,8 @@ camera proof of concept
 [Windows Phone Command Line Tools](http://docs.phonegap.com/en/edge/guide_platforms_wp8_tools.md.html#Windows%20Phone%20Command-line%20Tools) 
 
 
+[Morena 6](http://www.gnome.sk/Twain/jtp.html)
+
 Morena 7
 
 Commercial license 
