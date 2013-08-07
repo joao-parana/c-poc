@@ -1,0 +1,4 @@
+cp platforms/wp8/www/js/index.js www/js/
+cp platforms/wp8/www/index.html www/
+cp platforms/wp8/www/css/base.css www/css/
+echo "index.js, index.html e base.css copiados" 

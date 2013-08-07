@@ -200,7 +200,13 @@
         </PostBuildEvent>
     </PropertyGroup>
     <ItemGroup>
+        <Compile Include="Plugins\org.apache.cordova.core.camera\Camera.cs" />
+    </ItemGroup>
+    <ItemGroup>
         <Content Include="www\config.xml" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\css\base.css" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\css\index.css" />
@@ -363,6 +369,18 @@
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\spec.html" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.core.camera\www\CameraConstants.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.core.camera\www\CameraPopoverOptions.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.core.camera\www\Camera.js" />
+    </ItemGroup>
+    <ItemGroup>
+        <Content Include="www\plugins\org.apache.cordova.core.camera\www\CameraPopoverHandle.js" />
     </ItemGroup>
     <ItemGroup>
         <Content Include="www\cordova_plugins.js" />
