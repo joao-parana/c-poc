@@ -1,14 +1,24 @@
-GetScanners
+### Comandos
 
-SetFileNameMask
+#### GetScanners
 
-GetDPIResolutions
+#### SetScanner
 
-GetPageSizes 
+#### SetFileNameMask
 
-SetPageSize 
+#### GetDPIResolutions
 
-SetJpegQuality
+#### SetDPIResolution
+
+#### GetPageSizes 
+
+#### SetPageSize 
+
+#### SetJpegQuality
+
+
+
+
 
 
 
